@@ -20,7 +20,7 @@ class Indenter {
 } // Indenter
 
 
-public class Program {
+class Program {
     // Program = Declarations decpart ; Block body
     Declarations decpart;
     Block body;
