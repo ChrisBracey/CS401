@@ -392,6 +392,7 @@ class Operator {
     final static String MINUS = "-";
     final static String TIMES = "*";
     final static String DIV = "/";
+    final static String MODULUS = "%";
     // UnaryOp = !
     final static String NOT = "!";
     final static String NEG = "neg";
